@@ -1,6 +1,6 @@
 # IDM-SYSTEM :writing_hand:	
 - The system is designed using **Python** and designed website **Figma**
-- This system is Created for IDM campues. It also provides facilities for students to register their **attendence through the QR code**, know the **time table** of the university, provide **feedback** about the university and **download** university related **books**.
+- This system is Created for IDM campues. It also provides facilities for students to register their **Attendence through the QR code**, know the **Time table** of the university, provide **Feedback** about the university and **Download** university related **books**.
 - The university will be able to track feedback on Google Forms and get student attendence information.
 - 
 [![1.png](https://i.postimg.cc/Wb6MSsbn/1.png)](https://postimg.cc/MvHMp2BM)
