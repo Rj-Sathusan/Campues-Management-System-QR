@@ -1,4 +1,4 @@
-# IDM-SYSTEM :writing_hand:	
+# IDM-SYSTEM [ © R.Sathusan ] :writing_hand:	
 - The system is designed using **Python** and UI/UX website **Figma**
 
 # Features
