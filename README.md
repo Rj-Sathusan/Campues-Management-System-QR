@@ -1,7 +1,7 @@
 # IDM-SYSTEM :writing_hand:	
 - The system is designed using **Python** and UI/UX website **Figma**
 
-# Fetures
+# Features
 This system is Created for IDM campues. It also provides facilities for students to register their 
 - **Attendence through the QR code**
 - **know the Time table** of the university
